@@ -7,6 +7,7 @@ public class A1 {
 
 		for(i=0; i<101; i++) {
 			System.out.println(i);
+			//ich bin der beste
 		}
 		
 		
